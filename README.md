@@ -1,5 +1,7 @@
 # Space Invaders
 
+https://www.farsidislam.com/pages/index.html
+
 ![alt text](cover.png)
 
 Classic space invaders game made with JavaScript on a HTML canvas from scratch.
